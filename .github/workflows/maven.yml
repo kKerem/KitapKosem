@@ -1,0 +1,35 @@
+name: Java CI with Maven
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Kodu Checkout Et
+      uses: actions/checkout@v4
+
+    - name: Java 21 Kur
+      uses: actions/setup-java@v4
+      with:
+        distribution: 'temurin'
+        java-version: '21'
+
+    - name: Maven ile Derle ve Test Et
+      run: mvn -B clean verify
+
+    - name: Maven ile WAR Oluştur
+      run: mvn -B package --file pom.xml
+
+    # (İsteğe bağlı) Oluşan WAR dosyasını artefakt olarak kaydet
+    - name: Build Artefaktını Yükle
+      uses: actions/upload-artifact@v4
+      with:
+        name: kitapkosem-war
+        path: target/*.war
