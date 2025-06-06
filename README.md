@@ -1,8 +1,6 @@
 <p align="center" width="100%"><img src="https://github.com/user-attachments/assets/d2fc12ff-d714-403b-b836-6ff96cc29ecb"></p>
 [![Java CI with Maven](https://github.com/kKerem/KitapKosem/actions/workflows/maven.yml/badge.svg)](https://github.com/kKerem/KitapKosem/actions/workflows/maven.yml)
 
-## 🚀 Hızlı Başlangıç
-
 ### Gereksinimler
 - Java 21 veya üzeri
 - Maven 3.8+
