@@ -1,6 +1,6 @@
-# KitapKöşem
+<p align="center" width="100%"><img src="https://github.com/user-attachments/assets/d2fc12ff-d714-403b-b836-6ff96cc29ecb"></p>
 
-KitapKöşem, kitap ekleme, inceleme ve favorileme imkanı sunan modern bir Java web uygulamasıdır.
+**KitapKöşem**, kitap ekleme, inceleme ve favorileme imkanı sunan modern bir Java web uygulamasıdır.
 
 ## 🚀 Hızlı Başlangıç
 
@@ -35,5 +35,6 @@ KitapKöşem, kitap ekleme, inceleme ve favorileme imkanı sunan modern bir Java
 > - E-posta: `admin@kitapkosem.com` / Şifre: `12345`
 > - E-posta: `kerem@kitapkosem.com` / Şifre: `12345`
 
-## 📝 Lisans
-MIT 
+## Ekran Görüntüsü
+<img src="https://github.com/user-attachments/assets/1b31d3e1-1cc9-44db-801d-5987716e1240">
+
