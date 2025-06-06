@@ -14,7 +14,7 @@ KitapKöşem, kitap ekleme, inceleme ve favorileme imkanı sunan modern bir Java
 
 1. Projeyi klonlayın:
    ```bash
-   git clone [<proje-linki>](https://github.com/kKerem/KitapKosem)
+   git clone https://github.com/kKerem/KitapKosem
    cd kitapkosem
    ```
 2. Bağımlılıkları yükleyin ve derleyin:
