@@ -1,0 +1,17 @@
+com\kitapkosem\servlet\AuthServlet.class
+com\kitapkosem\model\Book.class
+com\kitapkosem\servlet\IndexServlet.class
+com\kitapkosem\filter\CharacterEncodingFilter.class
+com\kitapkosem\dao\BookDAO.class
+com\kitapkosem\model\User.class
+com\kitapkosem\dao\ReviewDAO.class
+com\kitapkosem\servlet\ProfileServlet.class
+com\kitapkosem\servlet\BookServlet.class
+com\kitapkosem\model\Review.class
+com\kitapkosem\servlet\PagesServlet.class
+com\kitapkosem\dao\FavoriteDAO.class
+com\kitapkosem\servlet\ReviewServlet.class
+com\kitapkosem\util\DatabaseUtil.class
+com\kitapkosem\util\DatabaseManager.class
+com\kitapkosem\dao\UserDAO.class
+com\kitapkosem\servlet\FavoriteServlet.class

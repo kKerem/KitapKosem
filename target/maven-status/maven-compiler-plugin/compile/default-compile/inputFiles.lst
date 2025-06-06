@@ -1,0 +1,17 @@
+C:\Users\kerem\IdeaProjects\KitapKosem\src\main\java\com\kitapkosem\servlet\ProfileServlet.java
+C:\Users\kerem\IdeaProjects\KitapKosem\src\main\java\com\kitapkosem\servlet\IndexServlet.java
+C:\Users\kerem\IdeaProjects\KitapKosem\src\main\java\com\kitapkosem\util\DatabaseUtil.java
+C:\Users\kerem\IdeaProjects\KitapKosem\src\main\java\com\kitapkosem\model\User.java
+C:\Users\kerem\IdeaProjects\KitapKosem\src\main\java\com\kitapkosem\filter\CharacterEncodingFilter.java
+C:\Users\kerem\IdeaProjects\KitapKosem\src\main\java\com\kitapkosem\dao\UserDAO.java
+C:\Users\kerem\IdeaProjects\KitapKosem\src\main\java\com\kitapkosem\dao\BookDAO.java
+C:\Users\kerem\IdeaProjects\KitapKosem\src\main\java\com\kitapkosem\servlet\PagesServlet.java
+C:\Users\kerem\IdeaProjects\KitapKosem\src\main\java\com\kitapkosem\servlet\ReviewServlet.java
+C:\Users\kerem\IdeaProjects\KitapKosem\src\main\java\com\kitapkosem\servlet\FavoriteServlet.java
+C:\Users\kerem\IdeaProjects\KitapKosem\src\main\java\com\kitapkosem\dao\FavoriteDAO.java
+C:\Users\kerem\IdeaProjects\KitapKosem\src\main\java\com\kitapkosem\dao\ReviewDAO.java
+C:\Users\kerem\IdeaProjects\KitapKosem\src\main\java\com\kitapkosem\util\DatabaseManager.java
+C:\Users\kerem\IdeaProjects\KitapKosem\src\main\java\com\kitapkosem\servlet\AuthServlet.java
+C:\Users\kerem\IdeaProjects\KitapKosem\src\main\java\com\kitapkosem\model\Book.java
+C:\Users\kerem\IdeaProjects\KitapKosem\src\main\java\com\kitapkosem\servlet\BookServlet.java
+C:\Users\kerem\IdeaProjects\KitapKosem\src\main\java\com\kitapkosem\model\Review.java
