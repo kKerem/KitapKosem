@@ -4,7 +4,7 @@
 ### Gereksinimler
 - Java 21 veya üzeri
 - Maven 3.8+
-- Apache Tomcat 10+ (veya uyumlu başka bir servlet container)
+- Apache Tomcat 7+ (veya uyumlu başka bir servlet container)
 - SQLlite (Veritabanı: kitapkosem.db C:\Users\<KullaniciAdi>\.kitapkosem içerisinde olmalı)
 
 ### Kurulum ve Çalıştırma
